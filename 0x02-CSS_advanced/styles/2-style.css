@@ -1,6 +1,7 @@
 html {
 	scroll-behavior: smooth;
 }
+
 body {
 	background-color: #161616;
 }
@@ -8,6 +9,7 @@ body {
 a {
 	color: #161616;
 }
+
 .visually-hidden {
 	display: none;
 }
