@@ -1,4 +1,4 @@
-:root{
+:root {
 	--color-primary: #d73953;
 	--color-black: #090909;
 	--color-white: #ffffff;
@@ -8,23 +8,23 @@
 }
 
 html {
-    scroll-behavior: smooth;
-  }
+	scroll-behavior: smooth;
+}
 
 body {
 	color: var(--text-color);
 }
 
 a {
-    color: var(--text-color);
+	color: var(--text-color);
 }
 
 .visually-hidden {
-    display: none;
+	display: none;
 }
 
 .card-category {
-    color: var(--color-primary);
+	color: var(--color-primary);
 }
 
 .section-tagline {
