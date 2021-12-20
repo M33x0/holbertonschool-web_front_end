@@ -11,7 +11,7 @@
 }
 
 body {
-	color: var(--text-color);: 
+	color: var(--text-color);
 	font-family: var(--font-family-base);
 }
 
@@ -20,17 +20,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    color: #161616;
+	color: #161616;
 }
 
 .visually-hidden {
-    display: none;
+	display: none;
 }
 
 .card-category {
-    color: var(--color-primary);
+	color: var(--color-primary);
 }
 
 .section-tagline {
-    color: var(--color-primary);
+	color: var(--color-primary);
 }
