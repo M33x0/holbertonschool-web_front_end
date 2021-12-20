@@ -8,12 +8,16 @@
 	--text-color: var(--color-black);
 }
 
+html {
+ scroll-behavior: smooth;
+}
+
 body {
 	color: var(--text-color);
 }
 
 a {
-	color: #161616;
+	color: var(--text-color);
 }
 
 .visually-hidden {
