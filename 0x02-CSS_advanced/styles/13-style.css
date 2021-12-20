@@ -55,19 +55,19 @@
 	color: var(--text-color);
 	text-decoration: none;
   }
-
+  
   a:visited {
-	  font-style: italic;
+	font-style: italic;
   }
-
+  
   a:hover {
-	  text-decoration: underline;
+	text-decoration: underline;
   }
   
   a:active {
-	color: var(--color-light-grey);
+	background-color: var(--color-light-grey);
   }
-
+  
   .visually-hidden {
 	display: none;
   }
@@ -79,7 +79,7 @@
   .section-header {
 	text-align: var(--section-header-align);
   }
-
+  
   .section-title {
 	font-family: var(--font-family-title);
 	font-size: var(--font-size-xx-large);
@@ -87,7 +87,7 @@
 	margin: var(--section-title-margin);
 	color: var(--section-title-color);
   }
-
+  
   .section-tagline {
 	color: var(--color-primary);
 	font-family: var(--font-family-title);
