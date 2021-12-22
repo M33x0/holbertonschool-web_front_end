@@ -445,9 +445,9 @@ template {
   }
   
   .nav .nav-link:hover {
-	color: var(--color-white);
+	color: var(--nav-item-link-hover);
   }
-
+  
   .nav .nav-link::before {
 	content: "";
 	position: absolute;
@@ -462,7 +462,7 @@ template {
 	  background-color: var(--color-primary);
 	  width: 100%;
   }
-
+  
   ul.row {
 	margin: 0;
 	padding: 0;
