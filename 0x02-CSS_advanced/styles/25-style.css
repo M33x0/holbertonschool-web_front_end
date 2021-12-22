@@ -54,6 +54,7 @@
 	--button-hover-background: var(--color-primary);
   }
   
+ 
   [data-section-theme="dark"] {
 	--text-color: var(--color-white);
 	--section-title-color: var(--color-white);
