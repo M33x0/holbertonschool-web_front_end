@@ -1,0 +1,12 @@
+/*variable color*/
+$color_one: #3D3D3D;
+$color_two: #6D6D6D;
+
+body {
+	color: $color_one;
+	background-color:$color_two ;
+	p {
+		color: $color_one;
+		background-color:$color_two ;
+	}
+}
