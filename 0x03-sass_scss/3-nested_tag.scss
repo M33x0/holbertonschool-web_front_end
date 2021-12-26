@@ -1,12 +1,8 @@
 /*nested tag*/
-$no_margin: 0;
-$no_padding: 0;
-$set_margin: 10px;
-
 body {
-	margin: $no_margin;
-	padding: $no_padding;
+	margin: 0;
+	padding: 0;
 	p {
-		margin: $set_margin;
+		margin: 10px;
 	}
 }
