@@ -180,9 +180,7 @@
   
   /* Grid
       ============================= */
-  .section-latest-news .row {
-		flex-direction: column-reverse
-}
+ 
 
   ul.row {
     margin: 0;
