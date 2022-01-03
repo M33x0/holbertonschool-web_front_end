@@ -388,9 +388,9 @@
   }
   /* Section ABOUT US
  		 ============================= */
-	.section-about-us [class^="col-"] {
-		align-items: center;
-	}
+ .section-about-us [class*="col-"]{
+		align-items:center;
+  }
   
   /*** 4. CARD ***/
   
