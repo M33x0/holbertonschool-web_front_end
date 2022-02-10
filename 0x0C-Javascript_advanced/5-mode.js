@@ -36,4 +36,4 @@ function main () {
   document.getElementById('scream').addEventListener('click', screamMode);
 }
 
-main()
+main();
