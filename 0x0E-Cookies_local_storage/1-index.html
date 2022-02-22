@@ -13,8 +13,8 @@
 			let cexpire = new Date()
 			cexpire.setTime(cexpire.getTime() + 10 * (24 * 60 * 60 * 1000));
  
-			document.cookie = 'cfirstname' + cfirstname + 'expires=' + cexpire.toUTCString();
-			document.cookie = 'cemail' + cemail + 'expires=' + cexpire.toUTCString();
+			document.cookie = 'cfirstname' + cfirstname + ';expires=' + cexpire.toUTCString() + 'path=/';
+			document.cookie = 'cemail' + cemail + ';expires=' + cexpire.toUTCString() + 'path=/';
 	
 		}
 
